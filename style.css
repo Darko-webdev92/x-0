@@ -1,0 +1,29 @@
+td {
+    width: 100px;
+    height: 100px;
+    ;
+}
+
+.second{
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+
+}
+
+.first{
+    border-bottom: 2px solid black;
+}
+
+
+#myFirst{
+    margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+}
+
+footer p{
+	text-align: center;
+}
+}
